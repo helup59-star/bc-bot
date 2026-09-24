@@ -1,0 +1,19 @@
+{
+  "DISCORD_TOKEN": "MTU1MTI5MTQzNzkyMzA0OTQ3Mg.GnWg3C.wb4Pxs_u1PwN3l8-74INobLJRBiVXfobTbp1zs",
+  "OWNER_IDS": "884513208017256488",
+  "PREFIX": "-",
+  "NO_PREFIX": "true",
+  "DEFAULT_VOLUME": "80",
+  "IDLE_LEAVE_SECONDS": "120",
+  "LAVALINK_AUTOSTART": "false",
+  "LAVALINK_HOST": "lavalinkv4.serenetia.com",
+  "LAVALINK_PORT": "80",
+  "LAVALINK_PASSWORD": "https://seretia.link/discord",
+  "LAVALINK_SECURE": "false",
+  "LAVALINK_XMX": "384m",
+  "LAVALINK_LOGS": "false",
+  "SEARCH_PREFIX": "ytsearch",
+  "YT_OAUTH": "false",
+  "YT_REFRESH_TOKEN": ""
+}
+
