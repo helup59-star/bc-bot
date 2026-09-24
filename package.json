@@ -1,0 +1,33 @@
+{
+  "name": "wispbyte-music-bot",
+  "version": "1.0.0",
+  "description": "Discord music bot (Lavalink v4 + Shoukaku) - single bot test build",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">{
+  "name": "wispbyte-music-bot",
+  "version": "1.0.0",
+  "description": "Discord music bot (Lavalink v4 + Shoukaku) - single bot test build",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.0",
+    "dotenv": "^16.4.5",
+    "shoukaku": "^4.1.0"
+  }
+}=18"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.0",
+    "dotenv": "^16.4.5",
+    "shoukaku": "^4.1.0"
+  }
+}
